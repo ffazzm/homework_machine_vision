@@ -15,7 +15,7 @@ except ImportError:
 
     # List of required packages
     required_packages = [
-        "numpy", "tensorflow", "scikit-learn", "imutils", "opencv-python"
+        "numpy", "tensorflow", "scikit-learn", "imutils", "opencv-python", "imutils", "pandas" 
     ]
 
     for package in required_packages:
